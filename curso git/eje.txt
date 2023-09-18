@@ -34,3 +34,4 @@ stashdrop:eliminar
         subirlo al remoto
 git remote add origin "url github"
 git push -u origin main
+git fetch: ver sin guardar cambios
