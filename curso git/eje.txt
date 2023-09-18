@@ -1,0 +1,34 @@
+              aprende git
+
+primer paso =
+git config --global user.name
+git config --global user.email
+basicos=
+cd
+ls
+crear=
+mkdir,touch
+repositorios=
+init,clone
+efectuar cambios=
+,status,add,commit,reset
+checkout : volver a cualquier version
+historial =log
+añadir en el log  --graph --deorate --all --oneline o pretty=oneline
+.gitignore
+diff
+rehacer commit=
+reset commit
+reset hard: desecha todo el historial
+reflog ver archivos desechados
+tag etiquetar partes
+ramas ==
+branch crear rama
+switch  mover etre ramas
+brach -d:eliminar rama
+merge juntar con otras ramas
+guardar fragmentos=
+stash list :ver lo guardado
+stash pop :abrir lo guardado
+stashdrop:eliminar 
+
