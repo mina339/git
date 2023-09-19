@@ -45,5 +45,10 @@ fork
 pull request
                 gitflow
 init
+main
+develop 
 feacture start finish "name"
-release start finish
+release 
+
+git cherry-pick
+git rebase
