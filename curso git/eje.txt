@@ -46,3 +46,4 @@ pull request
                 gitflow
 init
 feacture start finish "name"
+release start finish
